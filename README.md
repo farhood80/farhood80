@@ -3,7 +3,7 @@
  <b> Welcome to Future <b> <img src="https://bernardmarr.com/wp-content/uploads/2021/12/Future-Developments-of-AI.jpg" width="100"/>
   
   
-  >you cant find something more beautiful than the future which was developed by A.I
+  >you cant find something more beautiful than the future which will be developed by A.I
  
  *********************************************************************
   <div id="header" align="left">
