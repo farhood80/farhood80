@@ -1,16 +1,30 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=farhood80)
 
-<!--
-**farhood80/farhood80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <b> Welcome to Future <b> <img src="https://bernardmarr.com/wp-content/uploads/2021/12/Future-Developments-of-AI.jpg" width="100"/>
+  
+  
+  >you cant find something more beautiful than the future which was developed by A.I
+ 
+ *********************************************************************
+  <div id="header" align="left">
+ <img src="https://i.pinimg.com/originals/88/29/bb/8829bbfa76769440315fee3e671859cc.gif" width="400"/>              
+           <img src="https://cdna.artstation.com/p/assets/images/images/024/636/044/original/wolfenoctis-ben-adendorff-cybercitycenturaartstation.gif?1583065432" width="400"/>
+   
+   
+   [here listen to some good music while watching my profile its awsome](https://soundcloud.com/wazmusic/thinkin-of-a-drive-by)
+ *********************************************************************  
+    
+  hey im Farhood Dananiai im a Junior <em> Machine Learning Engineer </em> :computer: and <em> Data Scientist </em>
+  I Push <em> Machine Learning projects </em> in github  and sometimes <em> Deep Learning Projects </em> , 
+    well sometimes unrelated Projects just for fun.
+  
+ >:exclamation: :warning:  :exclamation: <b> this projects are fully documented and with good explantions about each part </b> :exclamation: :warning:  :exclamation: 
+  
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <em> “Data is the new oil.” — Clive Humby </em>
+  
+  <div id="badges">
+<a href="https://www.linkedin.com/in/farhood-dananiae-2b22b1229">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ </div>
